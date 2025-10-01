@@ -3,7 +3,7 @@
 #endif
 #define _MAP_ZONES_INCLUDED
 
-#include <a_samp>
+#include <open.mp>
 
 
 #define MAX_MAP_ZONE_NAME (27)
